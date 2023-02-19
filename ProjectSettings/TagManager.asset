@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - Furniture
+  - FurnitureDrag
+  - Touch
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Wall
+    uniqueID: 2055946675
+    locked: 0
+  - name: Ground
+    uniqueID: 771360425
+    locked: 0
+  - name: Shadow
+    uniqueID: 2939833983
+    locked: 0
+  - name: WallObject
+    uniqueID: 2483692213
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BlackCover
+    uniqueID: 2632688497
+    locked: 0
+  - name: FieldUI
+    uniqueID: 1668238957
+    locked: 0
+  - name: UI
+    uniqueID: 2924496497
+    locked: 0
+  - name: TutorialUI
+    uniqueID: 2851335517
+    locked: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1898fe5a954c7a24eb2ba00de31d3d9f, type: 3}
+  m_Name: _CusomItem_DefalutTile
+  m_EditorClassIdentifier: 
+  customizationType: 0
+  iconSprite: {fileID: 21300000, guid: e1e4cf4cf8be287418e6bce61f1f7123, type: 3}
+  tileInformation:
+    tileAsset: {fileID: 11400000, guid: d42df21d82509bd4b98d380f2ec9c21d, type: 2}
+    titleIconSprite: {fileID: 21300000, guid: 4b3842186c7872749924ab6a1d644725, type: 3}
+  clothInformation:
+    clothPart: 0
+    spriteCollector: {fileID: 0}
+    coloringObject: {fileID: 0}

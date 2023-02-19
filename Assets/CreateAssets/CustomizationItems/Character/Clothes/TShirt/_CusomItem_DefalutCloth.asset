@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1898fe5a954c7a24eb2ba00de31d3d9f, type: 3}
+  m_Name: _CusomItem_DefalutCloth
+  m_EditorClassIdentifier: 
+  myIdNumber: 2
+  myTypeIdNumber: 2
+  customizationType: 5
+  iconSprite: {fileID: 21300000, guid: baa075f8e4f0fa747b55051edd046026, type: 3}
+  tileInformation:
+    tileAsset: {fileID: 0}
+    titleIconSprite: {fileID: 0}
+  customCharacterInformation:
+    spriteCollector: {fileID: 11400000, guid: cc3462e921338a946b2374ca493b78d6, type: 2}
+    coloringObject: {fileID: 11400000, guid: 5094a9aa03a455646b2101c4e536f03f, type: 2}

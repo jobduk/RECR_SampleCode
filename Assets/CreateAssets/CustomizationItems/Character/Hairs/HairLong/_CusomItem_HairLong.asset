@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1898fe5a954c7a24eb2ba00de31d3d9f, type: 3}
+  m_Name: _CusomItem_HairLong
+  m_EditorClassIdentifier: 
+  myIdNumber: 4
+  myTypeIdNumber: 1
+  customizationType: 4
+  iconSprite: {fileID: 21300000, guid: 82ae88b037897f045a5253c832eae84f, type: 3}
+  tileInformation:
+    tileAsset: {fileID: 0}
+    titleIconSprite: {fileID: 0}
+  customCharacterInformation:
+    spriteCollector: {fileID: 11400000, guid: 1c5d875176683904aa20342b69032ae3, type: 2}
+    coloringObject: {fileID: 11400000, guid: 7c292aac0cde808489e58368eb8d8e57, type: 2}

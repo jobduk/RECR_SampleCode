@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6425940df5b9bd5499ed4ba4eb531e69, type: 3}
+  m_Name: _SpriteCollector_ClothDefault
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: 528bc16c6c369f647b834fe5519b2248, type: 3}
+  - {fileID: 21300000, guid: 5ea3fd865e5fb8844baa46d7c42119d4, type: 3}
+  - {fileID: 21300000, guid: f9600af0a6afca14e812181fbcfda287, type: 3}
+  - {fileID: 21300000, guid: 87ba48083fe48bb4b8158150046b1d92, type: 3}
+  - {fileID: 21300000, guid: b20f9baaa511d10449563b4ac270c31f, type: 3}
+  - {fileID: 21300000, guid: b54f041123546064e9d9a1c2caf5c487, type: 3}
+  - {fileID: 21300000, guid: 51f6f605719df6b49a658e967bdb3d72, type: 3}
+  - {fileID: 21300000, guid: be9b75b6696d15a4692fdb1054ec19c0, type: 3}
+  - {fileID: 21300000, guid: 5541d3be5df1d2e458360483f84a5d63, type: 3}

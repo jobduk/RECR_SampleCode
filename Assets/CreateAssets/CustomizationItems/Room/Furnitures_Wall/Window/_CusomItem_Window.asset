@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1898fe5a954c7a24eb2ba00de31d3d9f, type: 3}
+  m_Name: _CusomItem_Window
+  m_EditorClassIdentifier: 
+  myIdNumber: 0
+  myTypeIdNumber: 0
+  customizationType: 3
+  iconSprite: {fileID: 21300000, guid: 6a2eea7cbfbd5214083dbd38f7b005b8, type: 3}
+  tileInformation:
+    tileAsset: {fileID: 0}
+    titleIconSprite: {fileID: 0}
+  customCharacterInformation:
+    spriteCollector: {fileID: 0}
+    coloringObject: {fileID: 0}
+  furniturePrefab: {fileID: 2933142255738923344, guid: 07e8528fb468f494c8660deadfb8a141, type: 3}
